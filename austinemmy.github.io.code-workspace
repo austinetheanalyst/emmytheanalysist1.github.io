@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../chizky04.github.io-main"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "austinemmy.github.io"
+  }
+}
